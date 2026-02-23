@@ -16,6 +16,10 @@ Comprehensive research tools and frameworks.
 
 ### [Writing](./writing/)
 Evaluation and polishing for articles, fiction, and professional communication.
+- [Text Analysis Report](./writing/text-analysis-report.md): Clarity, logic, and factual accuracy.
+- [Proofreading & Editing](./writing/proofreading-and-editing.md): Grammar and style polish.
+- [Overcoming Writer's Block](./writing/overcoming-writers-block.md): Exercises to inspire writing.
+- [Persuasion Analysis](./writing/persuasion-analysis.md): Improving text persuasiveness.
 - Articles & fiction polishing (English non-native support).
 - LinkedIn statuses and professional messages.
 
