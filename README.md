@@ -33,6 +33,16 @@ Tools and strategies for learning, exam prep, and academic organization.
 - [Mistake Analyzer](./study-tools/mistake-analyzer.md): Root cause analysis of errors.
 - [More in Study Tools...](./study-tools/README.md)
 
+### [Engineering](./engineering/)
+Engineering prompts for code quality, security, architecture, documentation, and testing.
+- [Refactoring & Optimization](./engineering/refactoring-optimization.md)
+- [Multi-Persona Code Review](./engineering/multi-persona-review.md)
+- [Security Review](./engineering/security-review.md)
+- [System Architecture](./engineering/system-architecture.md)
+- [Progressive API Design](./engineering/progressive-api-design.md)
+- [Advanced Debugging](./engineering/advanced-debugging.md)
+- [More in Engineering...](./engineering/README.md)
+
 ### [Tinkering & Tutorials](./tinkering/)
 Step-by-step guides for DIY projects and repairs.
 - Electrical part replacement (e.g., washing machine).
